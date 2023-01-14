@@ -1,40 +1,10 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Microverse README Template</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -42,70 +12,147 @@ After you're finished please remove all the comments and instructions!
 - [📖 Hello Microverse ](#-hello-microverse-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+    - [Install](#install)
     - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello Microverse]** is a welcome message to the Microverse Program
+Simple web application to welcome into microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML, CSS, JavaScript Linters
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML5</a></li>
+    <li><a href="">HTML5</a></li>
   </ul>
 </details>
 
 
-<!-- GETTING STARTED -->
+
+### Key Features <a name="key-features"></a>
+No features are available yet
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need:
+- Web browser
+- Code editor
+
+
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder
+Open ```index.html``` using the relative path to a browser
 
-```sh
-  git clone git@github.com:morehwachege/hello-microverse.git
-  cd my-project
-```
+
+
+### Install
+No install
 
 
 
 ### Usage
 
-To run the project, open the ```index.html``` file in a browser of your choice:
+Open in browser window
 
-<!--
-Example command:
+### Run tests
 
-```sh
-  rails server
-```
---->
+No tests available
 
+### Deployment
+
+In GitHub pages or prefered web server 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Antony Gakuru**
+
+- GitHub: [@githubhandle](https://github.com/morehwachege)
+- Twitter: [@twitterhandle](https://twitter.com/muriithi_gakuru)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/muriithigakuru)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Cleaner UI
+- Superior CSS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, send me an email to support
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank God and Microversefor good time coding
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
