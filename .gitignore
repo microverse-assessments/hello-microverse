@@ -66,6 +66,7 @@ test.md
 # Output of 'npm pack'
 *.tgz
 
+test.md 
 # Yarn Integrity file
 .yarn-integrity
 
